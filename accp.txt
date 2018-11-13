@@ -3,3 +3,5 @@ hello,remote repository
 first  modified
 -----------------------
 sencond modified
+----------------------
+another folder commit
